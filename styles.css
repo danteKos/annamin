@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: monospace;
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #ffd3fc;
+  font-size: 1.8rem;
+  padding: 20px 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 14px;
+  line-height: 1.3;
+}
+
+.last-message {
+  color: #be0c50;
+  font-size: 2.2rem;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#entrada_img {
+  display: block;
+  width: 130px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 5%;
+}
+
+#band_img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 900px;
+  height: 60px;
+  border-radius: 10px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 10px;
+}
+
+#gatito_img {
+  display: block;
+  margin: 30px auto;
+  transform: rotate(20deg);
+  width: 140px;
+  height: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  object-position: center;
+}
+
+#annabg_img {
+  display: block;
+  border-radius: 4px;
+  transform: rotate(-8deg);
+  width: 180px;
+  height: 130px;
+  margin: 20px auto;
+  object-fit: cover;
+  object-position: top;
+}
+
+#ojos-anna {
+  display: block;
+  width: 160px;
+  height: 160px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 5%;
+}
+
+#anna-wa {
+  display: block;
+  width: 180px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 2%;
+  object-fit: cover;
+}
+
+#juntos_img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 200px;
+  border-radius: 10px;
+  object-fit: cover;
+  object-position: center;
+}
